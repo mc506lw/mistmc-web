@@ -1069,7 +1069,7 @@ home_top:
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
     tips: 岚域文档
-    title: 新手看这
+    title: 新手点我
     image: /img/mc_bj2.png
     link: https://docs.mistmc.top/
 
