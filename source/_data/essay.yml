@@ -1,0 +1,11 @@
+- title: 腐竹的念叨
+  subTitle: 鸽子日常
+  tips: 我要更新视频！！！
+  buttonText: 关于腐竹
+  buttonLink: /about/
+  limit: 30
+  home_essay: false
+  top_background: https://tse4-mm.cn.bing.net/th/id/OIP-C.CRizhnPolB2DvXSZevJPYQAAAA?rs=1&pid=ImgDetMain
+  essay_list:
+    - content: 也是搓了个新官网！
+      date: 2024/06/24

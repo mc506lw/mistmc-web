@@ -1,0 +1,51 @@
+- class_name: MistMC Server
+  description: 服务器配置
+  tip: 强大的服务器是保障玩家游玩体验的前提
+  top_background: https://bu.dusays.com/2023/07/05/64a4c38842b7a.webp
+  good_things:
+    - title: 硬件
+      description: 基础之基础
+      equipment_list:
+        - name: 英特尔® 酷睿™ 处理器
+          specification: i3-12300T
+          description: ≈80% i9-13900k 单核性能
+          image: https://www.centurytech.sg/wp-content/uploads/2023/12/gblhkys7gxqe6hnh1awm-1.jpg
+          link: https://www.intel.cn/content/www/cn/zh/products/sku/223096/intel-core-i312300t-processor-12m-cache-up-to-4-20-ghz/specifications.html
+        - name: KINGBANK  银爵 内存条
+          specification: 64GB/DDR4/3600 MHz
+          description: 提供卓越性能空间
+          image: https://2f.zol-img.com.cn/product/226/599/ce8e38rXYay7c.jpg
+          link: https://union-click.jd.com/jdc?e=jd_100049223275&p=JF8BAQQJK1olXDYCVV9cDUMUAG0LHV8lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWA4BV1xeDk8IWipURmtWPUF4Ex0PYShiAB9qUwJdWgJ8CxcbBEcnBm8JG1sdXgQDXW5eCUkUAGYBGlsXbTYAVVlcCEwnVQEIGloUXAAFVV9dOEkXAm4BGVwdWg8yVFhcAE8XAGkLGFgTXzYCXFltQ56cnm4IG1IlbTYBZG5tCHsUMzFmGggdXQcAAVYzVQ5FBS9QQAJ7WQMDUVZYCkgnAW4JGVklbTZZEzUqXzZ-cQ1uf15XPFtQNRoIbwl1eThmGV8WWUZ6FgEBaixTVQ9xZi0WbQ
+        - name: Western Digital 硬盘
+          specification: 500GB HHD
+          description: 多层级备份空间
+          image: https://edzimg.edianzu.com/0844b3373595421ba659a368fd00100b/2.jpg
+          link: https://item.jd.com/10101649742067.html
+        - name: NAT Traversal 全国线路
+          specification: 北京联通/深圳电信
+          description: 贼快，贼智能
+          image: https://p6.itc.cn/q_70/images03/20220908/56672d95626a4560bf7aa932a0c1c9a4.jpeg
+          link: https://iservice.10010.com/
+    - title: 软件
+      description: 快速，高效率，满满的舒适感
+      equipment_list:
+        - name: Leaves 核心
+          specification: 遵循原版特性的 Minecraft 服务端
+          description: Leaves 是基于 Paper 的 Minecraft 服务端，旨在修复被破坏的原版特性。
+          image: https://docs.leavesmc.org/logo.svg
+          link: https://leavesmc.org/
+        - name: Slimefun 4
+          specification: 为服务器提供模组级体验
+          description: Slimefun4 提供了远远超过 400 种物品和方块
+          image: https://media.forgecdn.net/avatars/294/981/637335262830258622.png
+          link: https://github.com/Slimefun/Slimefun4
+        - name: Matrix AntiCheat
+          specification: 默默行动
+          description: Minecraft高级反作弊解决方案
+          image: https://matrix.rip/matrix.svg
+          link: https://matrix.rip/zh/
+        - name: Vulcan AntiCheat
+          specification: 默默行动
+          description: 一个先进的作弊检测系统
+          image: https://www.minebbs.com/data/resource_icons/7/7464.jpg?1709037850
+          link: https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-20-4.83626/

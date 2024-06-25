@@ -1,0 +1,96 @@
+- class_name: 关于腐竹
+  subtitle: mc506lw
+  avatarImg: /img/lwtx.webp
+  avatarSkills:
+    left:
+      - MC506工作室的成员
+      - MistMC团队的成员
+    right:
+      - 咸鱼up主
+      - 会一点html
+  name: 老万
+  description: 是一名 b站up主
+  aboutsiteTips:
+    tips: 愿景
+    title1: 愿去
+    title2: 热爱而 感受
+    word:
+      - 生活
+      - 我的世界
+      - 原神启动
+      - IKUN
+  helloAbout: mc506lw
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 非常好的生活
+    title: 超级鸽子
+    list:
+      - desc: up主
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，北京市
+    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
+    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2008
+    selfInfoTips2: 出生地点
+    selfInfoContent2: 银河系 地球
+    selfInfoTips3: 现在位置
+    selfInfoContent3: 仙女星系
+  personalities:
+    author_name: 篮球家
+    personality_type: IKUN
+    photo_url: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    personality_img: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/ESFJ-A.svg
+    name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 理念
+    maxim_top: 只要有希望，
+    maxim_bottom: 就不会让大家失望。
+  buff:
+    buff_tips: 就玩玩
+    buff_top: 起床战争 空岛战争
+    buff_bottom: 建房子 写网站
+  game:
+    game_tips: 爱好游戏
+    game_title: 我的世界
+    game_uid: "ID: mc506lw"
+    game_bg: https://ts1.cn.mm.bing.net/th/id/R-C.70d270fd1f6b92f71d8270139739452f?rik=iZaoU4fUsfs4dw&riu=http%3a%2f%2fgamesminecraft.org%2fgames%2fimg%2fminecraft-inspiration_2676x1505.jpg&ehk=yFg%2fq8SlDV1%2bFASrbAb93%2b%2fIFYJyOe9FhDaTQv5nhBU%3d&risl=&pid=ImgRaw&r=0
+  comic:
+    comic_tips: 爱好游戏
+    comic_title: 更多有趣的游戏
+    comic_list:
+      - name: 原神
+        href: https://ys.mihoyo.com/
+        cover: https://bu.dusays.com/2023/04/22/64433bf26e25d.webp
+      - name: 无人深空
+        href: https://www.nomanssky.com/
+        cover: https://img.3dmgame.com/uploads/allimg/160812/316-160Q21AU6.jpg
+      - name: 幸福工厂
+        href: https://www.satisfactorygame.com/
+        cover: https://tse1-mm.cn.bing.net/th/id/OIP-C.ihM9zzPPHhx2dZKC8MirYAHaEK?rs=1&pid=ImgDetMain
+      - name: 泰拉瑞亚
+        href: https://store.steampowered.com/app/105600/Terraria/?l=schinese
+        cover: https://p.qpic.cn/mwegame/0/7683b78bc8f4c436978a355f2f1d8ad3/
+      - name: RAFT
+        href: https://raft-game.com/
+        cover: https://tse3-mm.cn.bing.net/th/id/OIP-C.muY-qbKVWuAHYkBCSeH-EQFNC7?rs=1&pid=ImgDetMain
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: AI技术
+  music:
+    music_tips: 音乐偏好
+    music_title: pop，phonk
+    music_bg: https://ts1.cn.mm.bing.net/th/id/R-C.9e2df99976371c01ff825fd6733077bd?rik=%2fsOqeNb1RZE8tA&riu=http%3a%2f%2fimge.kugou.com%2fstdmusic%2f20230529%2f20230529182402387166.jpg&ehk=XMPcpIy6tZYJsPw9852Z6T9Ki%2bATeM8AMXM9n%2bfzuj0%3d&risl=&pid=ImgRaw&r=0
+    music_link: /music/?id=7038384994&server=netease

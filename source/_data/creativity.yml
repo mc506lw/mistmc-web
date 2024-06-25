@@ -1,0 +1,32 @@
+- class_name: MC，启动！
+  creativity_list:
+    - name: Diamond_Ore
+      color: "#fff"
+      icon: /img/6.png
+    - name: Block_of_Emerald
+      color: "#fff"
+      icon: /img/29.png
+    - name: Blue_Ice
+      color: "#fff"
+      icon: /img/156561.png
+    - name: Block_of_Emerald
+      color: "#fff"
+      icon: /img/17.png
+    - name: Command_Block
+      color: "#fff"
+      icon: /img/11059.png
+    - name: Pumpkin_Pie
+      color: "#57b6e6"
+      icon: /img/1008.png
+    - name: Iron_Ingot
+      color: "#57b6e6"
+      icon: /img/959.png
+    - name: Light_Blue_Stained_Glass_Pane
+      color: "#57b6e6"
+      icon: /img/11089.png
+    - name: Ladder
+      color: "#57b6e6"
+      icon: /img/39.png
+    - name: Poppy
+      color: "#57b6e6"
+      icon: /img/10992.png
