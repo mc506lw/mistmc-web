@@ -3,7 +3,7 @@ title: Mist枪械插件开发1
 date: 2024-06-30 15:16:26
 categories: 
 - 教程
-cover: /img/mc_bj2.png
+cover: https://s21.ax1x.com/2024/08/09/pkz7vY8.png
 ---
 
 # Mist枪械插件基本设定

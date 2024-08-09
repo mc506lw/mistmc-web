@@ -3,7 +3,7 @@ title: 岚域招人啦！
 date: 2024-07-30 14:19:30
 categories: 
 - 人员变动
-cover: /img/mc_bj2.png
+cover: https://s21.ax1x.com/2024/08/09/pkz7Wo6.png
 ---
 
 

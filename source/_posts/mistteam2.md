@@ -3,7 +3,7 @@ title: 如何在岚域官网更新文章
 date: 2024-06-25 10:40:23
 categories: 
 - 教程
-cover: /img/mc_bj2.png
+cover: https://s21.ax1x.com/2024/08/09/pkz7cLR.png
 ---
 
 # 如何在岚域官网更新文章

@@ -1,36 +1,60 @@
 - class_name: 简单的照片
   path_name: /easyphoto
-  type: 2
+  type: 1
   description: 来自于服务器的各个角落
-  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
-  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
-  rowHeight: 220
-  limit: 10
+  cover: https://i.ibb.co/L86fV7t/freecompress-2024-07-20-21-15-32.jpg
+  top_background: https://i.ibb.co/qWCYwKK/freecompress-2024-03-23-19-34-51.jpg
   lazyload: true
   btnLazyload: false
   url: false
   album_list:
-    - date: 2022/10/26 01:00:00
-      content: 湘潭的一角。
-      address: 湖南湘潭
-      from: 再吃一口就减肥
+    - date: 2024-3-28
+      content: 简单的浮木
+      address: 服务器一角
+      from: mc506lw
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-    - date: 2022-10-25
-      content: 洛阳暴雨后的天空。
-      address: 河南洛阳
-      from: 紫菜卷
+        - https://i.ibb.co/yqh2MM6/2024-03-23-19-27-12.png
+    - date: 2024-7-05
+      content: 悠闲的古堡
+      address: 毛巾市都
+      from: mc506lw
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-        - https://bu.dusays.com/2023/04/09/64329399db2e1.webp
-
+        - https://i.ibb.co/N9npHcG/2024-07-05-17-51-42.png
+    - date: 2024-7-13
+      content: 工业结晶
+      address: 潘宏园区
+      from: mc506lw
+      image:
+        - https://i.ibb.co/4sQwmj8/2024-07-13-13-42-04.png
+    - date: 2024-7-05
+      content: 宏伟的中世纪城堡
+      address: 主城
+      from: mc506lw
+      image:
+        - https://i.ibb.co/TYcYVDk/2024-07-20-21-15-32.png
+    - date: 2024-8-05
+      content: 沙漠工业城
+      address: 快东的领地
+      from: mc506lw
+      image:
+        - https://i.ibb.co/RTTn1FT/2024-08-05-10-57-30.png
+    - date: 2024-8-07
+      content: 沙漠的家
+      address: 快东的领地
+      from: mc506lw
+      image:
+        - https://i.ibb.co/pKsZvnh/2024-08-07-09-28-54.png
 - class_name: 大家的相册
   path_name: /ourphoto
   type: 1
   description: 可以在Q群内上传，优秀的会放进来！
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  cover: https://i.ibb.co/QXL5VqL/3-ACA5-B4-E02-FDD4932-BF129-CA5-AED90-C3.png
   album_list:
-    - date: 2022-10-24
-      content: 老妹的画
+    - date: 2024-7-31
+      content: 快东的领地
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+        - https://i.ibb.co/SX3CJDV/6511-E4-E6499-A7-E04-CAF5-BFED0889-DA96.png
+    - date: 2024-8-05
+      content: 服务器一角
+      image:
+        - https://i.ibb.co/373tyPx/B38432419-A7-B26-C44118-F8-FD2-E945987.png

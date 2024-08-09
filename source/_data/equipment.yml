@@ -32,7 +32,7 @@
         - name: Leaves 核心
           specification: 遵循原版特性的 Minecraft 服务端
           description: Leaves 是基于 Paper 的 Minecraft 服务端，旨在修复被破坏的原版特性。
-          image: 
+          image: https://docs.leavesmc.org/logo.svg
           link: https://leavesmc.org/
         - name: Slimefun 4
           specification: 为服务器提供模组级体验

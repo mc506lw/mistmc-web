@@ -1,7 +1,7 @@
 ---
 title: MistMC团队技术规范
 date: 2024-6-24 16:24:12
-cover: /img/mc_bj1.png
+cover: https://s21.ax1x.com/2024/08/09/pkz72e1.png
 categories: 
 - 教程
 ---

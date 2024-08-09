@@ -3,7 +3,7 @@ title: 岚域官网更新文章的一些注意事项
 date: 2024-06-27 21:40:23
 categories: 
 - 教程
-cover: /img/mc_bj2.png
+cover: https://s21.ax1x.com/2024/08/09/pkz7Rdx.png
 ---
 
 
