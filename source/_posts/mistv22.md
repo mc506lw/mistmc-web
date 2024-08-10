@@ -2,7 +2,7 @@
 title: 岚域 2.2 版本更新公告！
 date: 2024-08-05 12:00:00
 categories: 
-- 版本更新
+- 更新
 cover: https://s21.ax1x.com/2024/08/09/pkz7Wo6.png
 ---
 # 岚域 2.2 版本更新公告
