@@ -4,10 +4,10 @@
   avatarSkills:
     left:
       - MC506工作室的成员
-      - MistMC团队的成员
+      - 没我服务器干不起来
     right:
-      - 咸鱼up主
-      - 会一点html
+      - 超级无敌咸鱼up主
+      - Mist MC团队的成员
   name: 老万
   description: 是一名 b站up主
   aboutsiteTips:
@@ -16,18 +16,20 @@
     title2: 热爱而 感受
     word:
       - 生活
-      - 我的世界
-      - 原神启动
-      - IKUN
+      - Minecraft
+      - 科技
+      - 编程
   helloAbout: mc506lw
   skillsTips:
-    tips: 技能
-    title: 开启创造力
+    tips: 友人
+    title: 极好的伙伴
   careers:
-    tips: 非常好的生活
-    title: 超级鸽子
+    tips: MistMC
+    title: 开服时间
     list:
-      - desc: up主
+      - desc: 1.0时期
+        color: "#d8022d"
+      - desc: 2.0时期
         color: "#357ef5"
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
@@ -37,15 +39,15 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，北京市
-    background: https://bu.dusays.com/2023/07/05/64a4c61cb20ef.jpg
-    backgroundDark: https://bu.dusays.com/2023/07/05/64a4c63495ac5.jpg
+    background: https://s21.ax1x.com/2024/08/10/pASRsjP.png
+    backgroundDark: https://s21.ax1x.com/2024/08/10/pASRsjP.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2008
-    selfInfoTips2: 出生地点
-    selfInfoContent2: 银河系 地球
-    selfInfoTips3: 现在位置
-    selfInfoContent3: 仙女星系
+    selfInfoTips2: MC入坑时间
+    selfInfoContent2: 2012
+    selfInfoTips3: 目标
+    selfInfoContent3: 百大UP主
   personalities:
     author_name: 篮球家
     personality_type: IKUN
@@ -54,16 +56,16 @@
     name_url: https://www.16personalities.com/ch/esfj-%E4%BA%BA%E6%A0%BC
   maxim:
     maxim_tips: 理念
-    maxim_top: 只要有希望，
-    maxim_bottom: 就不会让大家失望。
+    maxim_top: 只要有信念，
+    maxim_bottom: 就一定能成功。
   buff:
-    buff_tips: 就玩玩
-    buff_top: 起床战争 空岛战争
-    buff_bottom: 建房子 写网站
+    buff_tips: MC技能
+    buff_top: 服务器开发 简单建筑
+    buff_bottom: 科技教程 自动化规划
   game:
     game_tips: 爱好游戏
     game_title: 我的世界
-    game_uid: "ID: mc506lw"
+    game_uid: "正版ID: mc506lw"
     game_bg: https://ts1.cn.mm.bing.net/th/id/R-C.70d270fd1f6b92f71d8270139739452f?rik=iZaoU4fUsfs4dw&riu=http%3a%2f%2fgamesminecraft.org%2fgames%2fimg%2fminecraft-inspiration_2676x1505.jpg&ehk=yFg%2fq8SlDV1%2bFASrbAb93%2b%2fIFYJyOe9FhDaTQv5nhBU%3d&risl=&pid=ImgRaw&r=0
   comic:
     comic_tips: 爱好游戏
@@ -87,7 +89,7 @@
   like:
     like_tips: 关注偏好
     like_title: 数码科技
-    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bg: https://s21.ax1x.com/2024/08/10/pASRrct.webp
     like_bottom: AI技术
   music:
     music_tips: 音乐偏好
